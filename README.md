@@ -1,9 +1,7 @@
-### Hi there 👋
+ Hi there 👋
+ 
+ I am Super Novaa inspired by the phenomenon burst of cosmic rays and gas on the stars called Supernova, I burst into positive vibes and never give up attitude.
 
-<!--
-**Super-Novaa/Super-Novaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on NLP and Deep learning
 - 🌱 I’m currently learning Machine learning and MLops.
@@ -12,4 +10,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about Power BI, Python, MySql.
 - 📫 How to reach me: www.linkedin.com/in/akashraj97
 -- ⚡ Fun fact: I am currently working on an exciting problem in legal domain using NLP.
--->
+
