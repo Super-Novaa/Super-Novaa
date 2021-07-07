@@ -9,5 +9,5 @@
 - 🤔 I’m looking for help with Legal Recommendation.
 - 💬 Ask me about Power BI, Python, MySql.
 - 📫 How to reach me: www.linkedin.com/in/akashraj97
--- ⚡ Fun fact: I am currently working on an exciting problem in legal domain using NLP.
+- ⚡ Fun fact: I am currently working on an exciting problem in legal domain using NLP.
 
