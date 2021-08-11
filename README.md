@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on NLP and Deep learning
-- 🌱 I’m currently learning Machine learning and MLops.
+- 🌱 I’m currently Cloud and  MLops.
 - 👯 I’m looking to collaborate on Open source Machine learning projects.
 - 🤔 I’m looking for help with Legal Recommendation.
 - 💬 Ask me about Power BI, Python, MySql.
