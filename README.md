@@ -1,6 +1,6 @@
  Hi there 👋
  
- I am Super Novaa inspired by the phenomenon burst of cosmic rays and gas on the stars called Supernova, I burst into positive vibes and never give up attitude.
+ I am Super Novaa inspired by the phenomenon Supernova(burst of cosmic rays and gas), I burst into positive vibes and never give up attitude.
 
 
 - 🔭 I’m currently working on Dashboard creation and reporting using Power BI,SQL and Python.
